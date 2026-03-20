@@ -109,7 +109,7 @@ Hotel-Booking-Analysis/
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/Hotel-Booking-Data-Analysis.git
+git clone https://github.com/Nitish7534/Hotel-Booking-Data-Analysis.git
 
 
 2. Open the Jupyter Notebook:
